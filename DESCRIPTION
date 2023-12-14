@@ -1,0 +1,11 @@
+Package: RepboxGithubApp
+Type: Package
+Title: A Repbox App based on Github Actions (Pilot)
+Version: 0.1.0
+Author: Sebastian Kranz
+Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
+Description: A Repbox App based on Github Actions (Pilot)
+License: GPL >= 3.0
+Depends: restorepoint, dplyr, jsonlite, httr, curl
+Encoding: UTF-8
+LazyData: true

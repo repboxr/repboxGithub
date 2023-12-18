@@ -4,7 +4,7 @@ Title: Tools for using repbox via Github
 Version: 0.1.0
 Author: Sebastian Kranz
 Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
-Description: 
+Description: Tools for using repbox via Github
 License: GPL >= 3.0
 Depends: restorepoint, dplyr, jsonlite, httr, curl
 Encoding: UTF-8

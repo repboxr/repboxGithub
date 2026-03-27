@@ -6,6 +6,6 @@ Author: Sebastian Kranz
 Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
 Description: Tools for Repbox and Github interaction
 License: GPL >= 3.0
-Depends: restorepoint, dplyr, GithubActions
+Depends: restorepoint, dplyr, GithubActions, stringi, repboxRun
 Encoding: UTF-8
 LazyData: true
